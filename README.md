@@ -1,3 +1,4 @@
 Demo: https://simon-game-done.vercel.app/
 
-![simon-game-done vercel app_](https://github.com/user-attachments/assets/39201966-2e19-4de8-ac53-25dac31c64cf)
+![image](https://github.com/user-attachments/assets/2220bfa3-f217-48bd-bf28-38389cddfd55)
+
